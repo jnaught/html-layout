@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.shapes {
+    margin: auto;
+    border-style: solid;
+    border-color: black;
+    height: 30vh;
+    width: 98vw;
+}
+.purplePillar{
+    float: left;
+    margin: 40px 0px 0px 15px;
+    background-color: purple;
+    height: 25vh;
+    width: 5vw;
+
+}
+
+.grnRectangle {
+
+    float: left;
+    margin: 12px 0px 0px 20px;
+    background-color: green;
+    height: 28vh;
+    width: 40vw;
+
+}
+
+.blueCircle {
+    float: left;
+    margin: 12px 0px 0px 20px;
+    background-color: lightblue;
+    height: 28vh;
+    width: 28vh;
+    border-radius: 50%;
+}
+
+
+.rectangle {
+    margin: 25px auto;
+    border-style: dotted;
+    border-color: black;
+    height: 30vh;
+    width: 98vw;
+
+}
+
+.yellowRect {
+    background-color: yellow;
+    height: 25vh;
+    width: 70vw;
+    margin: 25px auto;
+    box-shadow: 10px 10px 5px gray;
+}
+
+
+.card {
+    margin: 20px auto;
+    box-shadow: 10px 10px 5px #888888;
+    background-color: lightblue;
+    height: 25vh;
+    width: 30vw;
+
+
+}
+.card-text {
+    padding-top: 30px;
+    color: purple;
+    font-size: 2rem;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;	
+    
+}
